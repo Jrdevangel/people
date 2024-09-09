@@ -21,4 +21,4 @@ The App class contains the main method which is the entry point of the program.
 # Functionality
 
 Two instances of the People class are created (people1 and people2) with different details.
-It calls the printData() method to display the information for both people.GU
+It calls the printData() method to display the information for both people.
